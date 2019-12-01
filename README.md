@@ -11,7 +11,7 @@ There are 2 program files:
   Better do it by using JUPITER NOTEBOOK
 2) Open the home.html file in your browser and test it.
 
-Note: The dataset used is the .txt file, make sure to have it in the same folder as the Python file, otherwise change the address in the code in Python file.
+Note: The dataset used is the .txt file (SMSSpamCollection.txt), make sure to have it in the same folder as the Python file, otherwise change the address in the code in Python file.
 
 DESCRIPTION:
 
