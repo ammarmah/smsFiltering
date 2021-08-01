@@ -17,4 +17,4 @@ DESCRIPTION:
 
 FLASK is a Web Framework which permits to utilize Python script as a server side code. The trained model is acting as server while we use (or test) it in the browser by the file home.html
 
-gaussianNb() is the mathematical function is used, the accuracy obtained is 96%
+gaussianNb() is the mathematical function used, the accuracy obtained is 96%
